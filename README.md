@@ -1,6 +1,6 @@
 # firebase
 
-A new Flutter application.
+This is a new flutter application created using google firebase. Its a basic tutorial app created where you can set your data yourself and update it according to your choice.
 
 ## Getting Started
 
